@@ -1,3 +1,9 @@
+![IBM SPSS](https://img.shields.io/badge/Tool-IBM%20SPSS-blue)
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Statistics](https://img.shields.io/badge/Skill-Statistical%20Analysis-orange)
+![Research](https://img.shields.io/badge/Project-Academic%20Research-purple)
+![Socio--Economic](https://img.shields.io/badge/Domain-Socio--Economic%20Analysis-red)
+
 ## Project Overview
 
 This project analyzes household access to electricity in the Western Cape, South Africa, using data from Statistics South Africa’s Community Survey 2016.
